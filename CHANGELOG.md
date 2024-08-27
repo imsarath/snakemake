@@ -1,6 +1,24 @@
 # Changelog
 
 
+## [8.19.0](https://github.com/snakemake/snakemake/compare/v8.18.2...v8.19.0) (2024-08-27)
+
+
+### Features
+
+* print host name when executing workflow ([#3048](https://github.com/snakemake/snakemake/issues/3048)) ([b0ff787](https://github.com/snakemake/snakemake/commit/b0ff787b10ccf809789229c65901f363cfbc7a44))
+
+
+### Bug Fixes
+
+* `mem` and `disk` inference fixes ([#3040](https://github.com/snakemake/snakemake/issues/3040)) ([7530794](https://github.com/snakemake/snakemake/commit/7530794e4a5c64309e225b80f52932b404690756))
+
+
+### Documentation
+
+* Add 'Editor integrations' section to Installation page ([#3045](https://github.com/snakemake/snakemake/issues/3045)) ([9a4006d](https://github.com/snakemake/snakemake/commit/9a4006d2e02eb64244001990f685d488756a873a))
+* Fix typo (seesee to see) ([#3037](https://github.com/snakemake/snakemake/issues/3037)) ([de201fb](https://github.com/snakemake/snakemake/commit/de201fb0740123c9d9d30b6b929600062de485ff))
+
 ## [8.18.2](https://github.com/snakemake/snakemake/compare/v8.18.1...v8.18.2) (2024-08-21)
 
 
